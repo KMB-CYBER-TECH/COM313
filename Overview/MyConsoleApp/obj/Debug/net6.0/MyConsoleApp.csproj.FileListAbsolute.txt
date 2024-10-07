@@ -1,0 +1,14 @@
+C:\Users\User\Downloads\Start\Overview\MyConsoleApp\bin\Debug\net6.0\MyConsoleApp.exe
+C:\Users\User\Downloads\Start\Overview\MyConsoleApp\bin\Debug\net6.0\MyConsoleApp.deps.json
+C:\Users\User\Downloads\Start\Overview\MyConsoleApp\bin\Debug\net6.0\MyConsoleApp.runtimeconfig.json
+C:\Users\User\Downloads\Start\Overview\MyConsoleApp\bin\Debug\net6.0\MyConsoleApp.dll
+C:\Users\User\Downloads\Start\Overview\MyConsoleApp\bin\Debug\net6.0\MyConsoleApp.pdb
+C:\Users\User\Downloads\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\User\Downloads\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.dll
+C:\Users\User\Downloads\Start\Overview\MyConsoleApp\obj\Debug\net6.0\refint\MyConsoleApp.dll
+C:\Users\User\Downloads\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.pdb
+C:\Users\User\Downloads\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\User\Downloads\Start\Overview\MyConsoleApp\obj\Debug\net6.0\ref\MyConsoleApp.dll
